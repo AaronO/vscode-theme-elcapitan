@@ -1,0 +1,27 @@
+{
+	"name": "theme-elcapitan",
+	"displayName": "Elcapitan Theme",
+	"description": "",
+	"version": "0.0.1",
+	"publisher": "Aaron",
+	"engines": {
+		"vscode": "^0.10.10"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Elcapitan - Oceanic",
+				"uiTheme": "vs-light",
+				"path": "./themes/oceanic_next.tmTheme"
+			},
+			{
+				"label": "Elcapitan - Dracula",
+				"uiTheme": "vs-light",
+				"path": "./themes/dracula.tmTheme"
+			}
+		]
+	}
+}
