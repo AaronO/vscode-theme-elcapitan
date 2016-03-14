@@ -14,12 +14,12 @@
 		"themes": [
 			{
 				"label": "Elcapitan - Oceanic",
-				"uiTheme": "vs",
+				"uiTheme": "vs-dark",
 				"path": "./themes/oceanic_next.tmTheme"
 			},
 			{
 				"label": "Elcapitan - Dracula",
-				"uiTheme": "vs",
+				"uiTheme": "vs-dark",
 				"path": "./themes/dracula.tmTheme"
 			}
 		]
